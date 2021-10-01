@@ -1,5 +1,6 @@
 Esta es la historia de Lu.
 
 Quería seguir con los cursos de Python, pero le tocó hacer el de git primero.
+Igualmente lo está disfrutando.
 
 k thx bye
